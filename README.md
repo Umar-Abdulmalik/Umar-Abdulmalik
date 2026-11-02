@@ -11,5 +11,5 @@ Aspiring Python developer and Aircraft Engineering student at AFIT, Kaduna.
 Python · Git & GitHub · HTML · Django (learning)
 
 ## Contact
-- GitHub: [Dark-sha](https://github.com/Dark-sha)
+- GitHub: [Umar-Abdulmalik](https://github.com/Umar-Abdulmalik)
 - Email: abdulmalikadeyiza633@.com
